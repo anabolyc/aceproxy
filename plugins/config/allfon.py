@@ -3,7 +3,7 @@ Allfon.tv Playlist Downloader Plugin configuration file
 '''
 
 # Insert your allfon.tv playlist URL here
-url = 'http://allfon-tv.pro/autogenplaylist/allfontv.m3u'
+url = 'http://allfon-tv.com/autogenplaylist/allfontv.m3u'
 
 # EPG urls & EPG timeshift
 tvgurl = 'http://www.teleguide.info/download/new3/jtv.zip'
